@@ -1,0 +1,17 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "braian",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "apollo-upload-client": "^18.0.1",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.9.0",
+    "mongoose": "^8.5.3"
+  }
+}

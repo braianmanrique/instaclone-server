@@ -1,0 +1,11 @@
+# .gitignore en la raíz del proyecto
+
+# Excluir node_modules en la raíz
+node_modules/
+
+# Excluir archivos de lock
+package-lock.json
+yarn.lock
+
+# Otros archivos y carpetas a excluir (ajusta según tus necesidades)
+*.log
